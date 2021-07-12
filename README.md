@@ -1,12 +1,13 @@
-/////////////////////// PYTHON FILES /////////////////////////////
+_ PYTHON FILES _
 
-/// DESCRIPTION ///
+---> DESCRIPTION 
 
 JupyterLab files
 
-/// LIST ///
+---> LIST 
 
-1. DiscogsScraper ( Scalp an user discogs wantlist and get the sellers who has the most item )
-2. Simple LinearRegression ( Simple Linear Regression Network using only numpy )
-3. Simple CNN ( Simple CNN using only numpy ) 
+1. _DiscogsScrapers ( Scalp an user discogs wantlist and get the sellers who has the most item )
+2. _PasswordGenerator ( Generate safe password )
+3. Simple LinearRegression ( Simple Linear Regression Network using only numpy )
+4. Simple CNN ( Simple CNN using only numpy ) 
 
